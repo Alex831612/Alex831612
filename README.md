@@ -1,8 +1,8 @@
 # Hola 👋, soy Alex 
 
-Soy desarrollador FullStack con más de 3 años de experiencia creando sitios web.
-
-Me formé como Técnico en Análisis y Desarrollo de Sistemas Informáticos, aprendí programación web con cursos como ITMaster, Argentina Programa, Youtube y Documentaciónes. Y desde entonces creo aplicaciones y sitios web que combinan estética minimalista, tecnología moderna y las mejores prácticas de desarrollo.
+Soy desarrollador Full Stack con más de 3 años de experiencia en la creación de sitios web.
+Me formé como Técnico en Análisis y Desarrollo de Sistemas Informáticos, y complementé mi aprendizaje con cursos como ITMaster, Argentina Programa, además de recursos en YouTube y documentación oficial.
+Desde entonces, desarrollo aplicaciones y sitios web que combinan una estética minimalista, tecnologías modernas y buenas prácticas de programación.
 
 ---
 
@@ -25,7 +25,7 @@ Me formé como Técnico en Análisis y Desarrollo de Sistemas Informáticos, apr
 
 ---
 
-Para más información visita mi portfolio ![link](https://alexandres.vercel.app/)
+Para más información visita mi portfolio [link](https://alexandres.vercel.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex831612&show_icons=true&theme=tokyonight)
 
